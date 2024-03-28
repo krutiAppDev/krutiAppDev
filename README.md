@@ -19,6 +19,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![Image of https://github.com/formidablae/my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter)
+![Github Views](https://github-views.deno.dev/api/badge/krutiAppDev?style=classic/color=pink)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
